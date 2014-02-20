@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" ng-app="myApp">
+<html lang="en" ng-app="witbooker">
 <head>
   <meta charset="utf-8">
   <title>My AngularJS App</title>
@@ -7,23 +7,25 @@
 </head>
 <body>
   <ul class="menu">
-    <li><a href="#/view1">view1</a></li>
-    <li><a href="#/view2">view2</a></li>
+    <li><a ui-sref="stepOne">Step 1</a></li>
+    <li><a ui-sref="step2">Step 2</a></li>
   </ul>
 
-  <div ng-view></div>
+  <div ui-view></div>
 
-  <div>Angular seed app: v<span app-version></span></div>
 
   <!-- In production use:
   <script src="//ajax.googleapis.com/ajax/libs/angularjs/x.x.x/angular.min.js"></script>
   -->
   <script src="lib/angular/angular.js"></script>
   <script src="lib/angular/angular-route.js"></script>
+  <script src="lib/angular/angular-resource.js"></script>
   <script src="js/app.js"></script>
   <script src="js/services.js"></script>
   <script src="js/controllers.js"></script>
   <script src="js/filters.js"></script>
   <script src="js/directives.js"></script>
+  <script src="js/ui-bootstrap-tpls-0.9.0.js"></script>
+  <script src="components/angular-ui-router/release/angular-ui-router.js"></script>
 </body>
 </html>

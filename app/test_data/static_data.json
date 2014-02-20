@@ -1,0 +1,1958 @@
+[
+    {
+        "hoteldemo.com.v6": {
+            "locale": "eng",
+            "inventoryLines": [
+                {
+                    "accommodation": {
+                        "ticker": "stand",
+                        "name": "Standard",
+                        "description": "<p>Completely remodeled, Standard rooms contain everything you need to feel comfortable and at ease in a hotel room: a large king size bed, heating, air conditioning, a private bath.</p>",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "stand",
+                        "name": "Standard",
+                        "description": "<p>Completely remodeled, Standard rooms contain everything you need to feel comfortable and at ease in a hotel room: a large king size bed, heating, air conditioning, a private bath.</p>",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "nr",
+                        "name": "Non refund",
+                        "earlyCharge": 100,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "1a1n",
+                        "name": "1 adult + 1 child",
+                        "guests": {
+                            "key": 1
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "nr",
+                        "name": "Non refund"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "jnr",
+                        "name": "Junior Suite",
+                        "description": "Completely remodeled, our Junior Suites are furnished with a king size, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.",
+                        "media": [
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "nr",
+                        "name": "Non refund",
+                        "earlyCharge": 100,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "nr",
+                        "name": "Non refund"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "jnr",
+                        "name": "Junior Suite",
+                        "description": "Completely remodeled, our Junior Suites are furnished with a king size, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.",
+                        "media": [
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "1a",
+                        "name": "1 adult",
+                        "guests": {
+                            "key": 1
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "jnr",
+                        "name": "Junior Suite",
+                        "description": "Completely remodeled, our Junior Suites are furnished with a king size, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.",
+                        "media": [
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "tpl",
+                        "name": "Triple",
+                        "description": "Completely remodeled, our Triple rooms are furnished with three large single beds, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.\", cafetera Nespresso",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "3a",
+                        "name": "3 people",
+                        "guests": {
+                            "key": 3
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "tpl",
+                        "name": "Triple",
+                        "description": "Completely remodeled, our Triple rooms are furnished with three large single beds, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.\", cafetera Nespresso",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "2a1n",
+                        "name": "2 adults + 1 child",
+                        "guests": {
+                            "key": 1
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "stand",
+                        "name": "Standard",
+                        "description": "<p>Completely remodeled, Standard rooms contain everything you need to feel comfortable and at ease in a hotel room: a large king size bed, heating, air conditioning, a private bath.</p>",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "1a1n",
+                        "name": "1 adult + 1 child",
+                        "guests": {
+                            "key": 1
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "tpl",
+                        "name": "Triple",
+                        "description": "Completely remodeled, our Triple rooms are furnished with three large single beds, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.\", cafetera Nespresso",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "nr",
+                        "name": "Non refund",
+                        "earlyCharge": 100,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "2a1n",
+                        "name": "2 adults + 1 child",
+                        "guests": {
+                            "key": 1
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "nr",
+                        "name": "Non refund"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "stand",
+                        "name": "Standard",
+                        "description": "<p>Completely remodeled, Standard rooms contain everything you need to feel comfortable and at ease in a hotel room: a large king size bed, heating, air conditioning, a private bath.</p>",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "1a",
+                        "name": "1 adult",
+                        "guests": {
+                            "key": 1
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "stand",
+                        "name": "Standard",
+                        "description": "<p>Completely remodeled, Standard rooms contain everything you need to feel comfortable and at ease in a hotel room: a large king size bed, heating, air conditioning, a private bath.</p>",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "nr",
+                        "name": "Non refund",
+                        "earlyCharge": 100,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "nr",
+                        "name": "Non refund"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "tpl",
+                        "name": "Triple",
+                        "description": "Completely remodeled, our Triple rooms are furnished with three large single beds, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.\", cafetera Nespresso",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "nr",
+                        "name": "Non refund",
+                        "earlyCharge": 100,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "3a",
+                        "name": "3 people",
+                        "guests": {
+                            "key": 3
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "nr",
+                        "name": "Non refund"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "jnr",
+                        "name": "Junior Suite",
+                        "description": "Completely remodeled, our Junior Suites are furnished with a king size, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.",
+                        "media": [
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "nr",
+                        "name": "Non refund",
+                        "earlyCharge": 100,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "1a",
+                        "name": "1 adult",
+                        "guests": {
+                            "key": 1
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "nr",
+                        "name": "Non refund"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "stand",
+                        "name": "Standard",
+                        "description": "<p>Completely remodeled, Standard rooms contain everything you need to feel comfortable and at ease in a hotel room: a large king size bed, heating, air conditioning, a private bath.</p>",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "Roman",
+                        "name": "Romantic Pack",
+                        "description": "<p>If you do not settle for roses and chocolates to express your feelings, we offer something even more original to surprise your partner. 2 nights in Standard Double Room Champagne Rose petals on the bed exotic fruit basket 2 1h massage sessions Late check out (14h)</p>",
+                        "media": [
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "Roman",
+                        "name": "Romantic Pack",
+                        "description": "<p>If you do not settle for roses and chocolates to express your feelings, we offer something even more original to surprise your partner. 2 nights in Standard Double Room Champagne Rose petals on the bed exotic fruit basket 2 1h massage sessions Late check out (14h)</p>",
+                        "media": [
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "stand",
+                        "name": "Standard",
+                        "description": "<p>Completely remodeled, Standard rooms contain everything you need to feel comfortable and at ease in a hotel room: a large king size bed, heating, air conditioning, a private bath.</p>",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "nr",
+                        "name": "Non refund",
+                        "earlyCharge": 100,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "nr",
+                        "name": "Non refund"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "tpl",
+                        "name": "Triple",
+                        "description": "Completely remodeled, our Triple rooms are furnished with three large single beds, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.\", cafetera Nespresso",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "nr",
+                        "name": "Non refund",
+                        "earlyCharge": 100,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "3a",
+                        "name": "3 people",
+                        "guests": {
+                            "key": 3
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "nr",
+                        "name": "Non refund"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "tpl",
+                        "name": "Triple",
+                        "description": "Completely remodeled, our Triple rooms are furnished with three large single beds, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.\", cafetera Nespresso",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "3a",
+                        "name": "3 people",
+                        "guests": {
+                            "key": 3
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "jnr",
+                        "name": "Junior Suite",
+                        "description": "Completely remodeled, our Junior Suites are furnished with a king size, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.",
+                        "media": [
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "jnr",
+                        "name": "Junior Suite",
+                        "description": "Completely remodeled, our Junior Suites are furnished with a king size, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.",
+                        "media": [
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "nr",
+                        "name": "Non refund",
+                        "earlyCharge": 100,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "nr",
+                        "name": "Non refund"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "stand",
+                        "name": "Standard",
+                        "description": "<p>Completely remodeled, Standard rooms contain everything you need to feel comfortable and at ease in a hotel room: a large king size bed, heating, air conditioning, a private bath.</p>",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "corp",
+                        "name": "Corporate rate",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "corp",
+                        "name": "Corporate rate"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "tpl",
+                        "name": "Triple",
+                        "description": "Completely remodeled, our Triple rooms are furnished with three large single beds, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.\", cafetera Nespresso",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "nr",
+                        "name": "Non refund",
+                        "earlyCharge": 100,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "4a",
+                        "name": "4 people",
+                        "guests": {
+                            "key": 4
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "nr",
+                        "name": "Non refund"
+                    }
+                }
+            ],
+            "services": [
+                {
+                    "ticker": "e4",
+                    "name": "24h WIFI",
+                    "description": "<p>24 h. WIFI access&nbsp;</p>",
+                    "active": true,
+                    "startDate": "Jan 1, 2013 12:00:00 AM",
+                    "endDate": "Jan 6, 2023 12:00:00 AM",
+                    "media": []
+                },
+                {
+                    "ticker": "e2",
+                    "name": "Flower bouquet",
+                    "description": "<p>Beautiful flower bouquet waiting for you in your room.</p>",
+                    "active": true,
+                    "startDate": "Mar 1, 2013 12:00:00 AM",
+                    "endDate": "Mar 22, 2022 12:00:00 AM",
+                    "media": [
+                        {
+                            "path": "0000.jpg",
+                            "name": ""
+                        }
+                    ]
+                },
+                {
+                    "ticker": "e10",
+                    "name": "Massage session (30 min)",
+                    "description": "<p>Ayurveda: Natural Indian technique. It works your body, mind and spirit. It&rsquo;s toning and relaxing.</p>",
+                    "active": true,
+                    "startDate": "Jul 1, 2009 12:00:00 AM",
+                    "endDate": "Jul 23, 2014 12:00:00 AM",
+                    "media": [
+                        {
+                            "path": "0001.jpg",
+                            "name": ""
+                        }
+                    ]
+                },
+                {
+                    "ticker": "e1",
+                    "name": "Airport Pickup (max. 4 people)",
+                    "description": "<p>We pick you up at Barcelon's El Prat Airport and drive you to Hotel Demo, the service is available for up to 4 people.</p>",
+                    "active": true,
+                    "startDate": "Feb 14, 2010 12:00:00 AM",
+                    "endDate": "Feb 17, 2014 12:00:00 AM",
+                    "media": []
+                },
+                {
+                    "ticker": "e12",
+                    "name": "Baby bassinet (free)",
+                    "description": "<p>Gratuita para ni&ntilde;os/as de hasta 1 a&ntilde;o.</p>",
+                    "active": true,
+                    "startDate": "Mar 1, 2013 12:00:00 AM",
+                    "endDate": "Jul 23, 2014 12:00:00 AM",
+                    "media": [
+                        {
+                            "path": "0001.jpg",
+                            "name": ""
+                        }
+                    ]
+                },
+                {
+                    "ticker": "e3",
+                    "name": "Parking",
+                    "description": "<p>At the hotel, 24h.</p>",
+                    "active": true,
+                    "startDate": "Oct 31, 2012 12:00:00 AM",
+                    "endDate": "Oct 29, 2022 12:00:00 AM",
+                    "media": [
+                        {
+                            "path": "0001.jpg",
+                            "name": ""
+                        }
+                    ]
+                },
+                {
+                    "ticker": "e5",
+                    "name": "Excursion a caballo (por persona) (para traducir)",
+                    "description": "<p>2h horas por el monte con Mariana.&nbsp;</p>\r\n<p>(para traducir)</p>",
+                    "active": true,
+                    "startDate": "May 23, 2013 12:00:00 AM",
+                    "endDate": "Oct 21, 2013 12:00:00 AM",
+                    "media": [
+                        {
+                            "path": "0000.jpg",
+                            "name": ""
+                        }
+                    ]
+                }
+            ],
+            "languages": [
+                {
+                    "id": 33,
+                    "name": "English",
+                    "code": "en",
+                    "locale": "eng",
+                    "charset": "utf-8"
+                },
+                {
+                    "id": 44,
+                    "name": "Español",
+                    "code": "es",
+                    "locale": "spa",
+                    "charset": "utf-8"
+                }
+            ],
+            "currencies": [
+                {
+                    "code": "EUR"
+                },
+                {
+                    "code": "GBP"
+                },
+                {
+                    "code": "USD"
+                }
+            ],
+            "messages": [],
+            "ticker": "est1",
+            "name": "Hotel Demo",
+            "description": "<p>Witbooker hotel demo is a simulation of Witbooking&acute;s booking system. With Witbooking you will enjoy the best booking system available.</p>",
+            "active": true,
+            "contactInfo": {
+                "phone": "666666666",
+                "email": "",
+                "address": "Dirección",
+                "city": "Barcelona",
+                "zone": "",
+                "country": "Spain",
+                "latitude": 41.3879,
+                "longitude": 2.1699
+            },
+            "media": [
+                {
+                    "path": "0001.jpg",
+                    "name": ""
+                },
+                {
+                    "path": "0000.jpg",
+                    "name": ""
+                }
+            ]
+        }
+    },
+    {
+        "superHotel": {
+            "locale": "eng",
+            "inventoryLines": [
+                {
+                    "accommodation": {
+                        "ticker": "stand",
+                        "name": "Standard",
+                        "description": "<p>Completely remodeled, Standard rooms contain everything you need to feel comfortable and at ease in a hotel room: a large king size bed, heating, air conditioning, a private bath.</p>",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "stand",
+                        "name": "Standard",
+                        "description": "<p>Completely remodeled, Standard rooms contain everything you need to feel comfortable and at ease in a hotel room: a large king size bed, heating, air conditioning, a private bath.</p>",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "nr",
+                        "name": "Non refund",
+                        "earlyCharge": 100,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "1a1n",
+                        "name": "1 adult + 1 child",
+                        "guests": {
+                            "key": 1
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "nr",
+                        "name": "Non refund"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "jnr",
+                        "name": "Junior Suite",
+                        "description": "Completely remodeled, our Junior Suites are furnished with a king size, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.",
+                        "media": [
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "nr",
+                        "name": "Non refund",
+                        "earlyCharge": 100,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "nr",
+                        "name": "Non refund"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "jnr",
+                        "name": "Junior Suite",
+                        "description": "Completely remodeled, our Junior Suites are furnished with a king size, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.",
+                        "media": [
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "1a",
+                        "name": "1 adult",
+                        "guests": {
+                            "key": 1
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "jnr",
+                        "name": "Junior Suite",
+                        "description": "Completely remodeled, our Junior Suites are furnished with a king size, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.",
+                        "media": [
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "tpl",
+                        "name": "Triple",
+                        "description": "Completely remodeled, our Triple rooms are furnished with three large single beds, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.\", cafetera Nespresso",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "3a",
+                        "name": "3 people",
+                        "guests": {
+                            "key": 3
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "tpl",
+                        "name": "Triple",
+                        "description": "Completely remodeled, our Triple rooms are furnished with three large single beds, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.\", cafetera Nespresso",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "2a1n",
+                        "name": "2 adults + 1 child",
+                        "guests": {
+                            "key": 1
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "stand",
+                        "name": "Standard",
+                        "description": "<p>Completely remodeled, Standard rooms contain everything you need to feel comfortable and at ease in a hotel room: a large king size bed, heating, air conditioning, a private bath.</p>",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "1a1n",
+                        "name": "1 adult + 1 child",
+                        "guests": {
+                            "key": 1
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "tpl",
+                        "name": "Triple",
+                        "description": "Completely remodeled, our Triple rooms are furnished with three large single beds, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.\", cafetera Nespresso",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "nr",
+                        "name": "Non refund",
+                        "earlyCharge": 100,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "2a1n",
+                        "name": "2 adults + 1 child",
+                        "guests": {
+                            "key": 1
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "nr",
+                        "name": "Non refund"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "stand",
+                        "name": "Standard",
+                        "description": "<p>Completely remodeled, Standard rooms contain everything you need to feel comfortable and at ease in a hotel room: a large king size bed, heating, air conditioning, a private bath.</p>",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "1a",
+                        "name": "1 adult",
+                        "guests": {
+                            "key": 1
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "stand",
+                        "name": "Standard",
+                        "description": "<p>Completely remodeled, Standard rooms contain everything you need to feel comfortable and at ease in a hotel room: a large king size bed, heating, air conditioning, a private bath.</p>",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "nr",
+                        "name": "Non refund",
+                        "earlyCharge": 100,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "nr",
+                        "name": "Non refund"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "tpl",
+                        "name": "Triple",
+                        "description": "Completely remodeled, our Triple rooms are furnished with three large single beds, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.\", cafetera Nespresso",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "nr",
+                        "name": "Non refund",
+                        "earlyCharge": 100,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "3a",
+                        "name": "3 people",
+                        "guests": {
+                            "key": 3
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "nr",
+                        "name": "Non refund"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "jnr",
+                        "name": "Junior Suite",
+                        "description": "Completely remodeled, our Junior Suites are furnished with a king size, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.",
+                        "media": [
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "nr",
+                        "name": "Non refund",
+                        "earlyCharge": 100,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "1a",
+                        "name": "1 adult",
+                        "guests": {
+                            "key": 1
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "nr",
+                        "name": "Non refund"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "stand",
+                        "name": "Standard",
+                        "description": "<p>Completely remodeled, Standard rooms contain everything you need to feel comfortable and at ease in a hotel room: a large king size bed, heating, air conditioning, a private bath.</p>",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "Roman",
+                        "name": "Romantic Pack",
+                        "description": "<p>If you do not settle for roses and chocolates to express your feelings, we offer something even more original to surprise your partner. 2 nights in Standard Double Room Champagne Rose petals on the bed exotic fruit basket 2 1h massage sessions Late check out (14h)</p>",
+                        "media": [
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "Roman",
+                        "name": "Romantic Pack",
+                        "description": "<p>If you do not settle for roses and chocolates to express your feelings, we offer something even more original to surprise your partner. 2 nights in Standard Double Room Champagne Rose petals on the bed exotic fruit basket 2 1h massage sessions Late check out (14h)</p>",
+                        "media": [
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "stand",
+                        "name": "Standard",
+                        "description": "<p>Completely remodeled, Standard rooms contain everything you need to feel comfortable and at ease in a hotel room: a large king size bed, heating, air conditioning, a private bath.</p>",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "nr",
+                        "name": "Non refund",
+                        "earlyCharge": 100,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "nr",
+                        "name": "Non refund"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "tpl",
+                        "name": "Triple",
+                        "description": "Completely remodeled, our Triple rooms are furnished with three large single beds, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.\", cafetera Nespresso",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "nr",
+                        "name": "Non refund",
+                        "earlyCharge": 100,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "3a",
+                        "name": "3 people",
+                        "guests": {
+                            "key": 3
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "nr",
+                        "name": "Non refund"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "tpl",
+                        "name": "Triple",
+                        "description": "Completely remodeled, our Triple rooms are furnished with three large single beds, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.\", cafetera Nespresso",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "3a",
+                        "name": "3 people",
+                        "guests": {
+                            "key": 3
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "jnr",
+                        "name": "Junior Suite",
+                        "description": "Completely remodeled, our Junior Suites are furnished with a king size, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.",
+                        "media": [
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "cg",
+                        "name": "Free cancellation",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "This demo site allows hoteliers evaluate our online booking engine.\r\n\r\nThe registered bookings are not real, all the information collected will be discarded and no real charges will be placed.\r\n"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "cg",
+                        "name": "Free cancellation"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "jnr",
+                        "name": "Junior Suite",
+                        "description": "Completely remodeled, our Junior Suites are furnished with a king size, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.",
+                        "media": [
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "nr",
+                        "name": "Non refund",
+                        "earlyCharge": 100,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "nr",
+                        "name": "Non refund"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "stand",
+                        "name": "Standard",
+                        "description": "<p>Completely remodeled, Standard rooms contain everything you need to feel comfortable and at ease in a hotel room: a large king size bed, heating, air conditioning, a private bath.</p>",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0000.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "corp",
+                        "name": "Corporate rate",
+                        "earlyCharge": 0,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "2a",
+                        "name": "2 adults",
+                        "guests": {
+                            "key": 2
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "corp",
+                        "name": "Corporate rate"
+                    }
+                },
+                {
+                    "accommodation": {
+                        "ticker": "tpl",
+                        "name": "Triple",
+                        "description": "Completely remodeled, our Triple rooms are furnished with three large single beds, heating, air conditioning, a private bath with a large shower, TV, and free Internet and WiFi.\", cafetera Nespresso",
+                        "media": [
+                            {
+                                "path": "0002.jpg",
+                                "name": ""
+                            },
+                            {
+                                "path": "0001.jpg",
+                                "name": ""
+                            }
+                        ]
+                    },
+                    "condition": {
+                        "ticker": "nr",
+                        "name": "Non refund",
+                        "earlyCharge": 100,
+                        "minimumCharge": 0,
+                        "description": "<p>Array</p>"
+                    },
+                    "configuration": {
+                        "ticker": "4a",
+                        "name": "4 people",
+                        "guests": {
+                            "key": 4
+                        }
+                    },
+                    "mealPlan": {
+                        "ticker": "nr",
+                        "name": "Non refund"
+                    }
+                }
+            ],
+            "services": [
+                {
+                    "ticker": "e4",
+                    "name": "24h WIFI",
+                    "description": "<p>24 h. WIFI access&nbsp;</p>",
+                    "active": true,
+                    "startDate": "Jan 1, 2013 12:00:00 AM",
+                    "endDate": "Jan 6, 2023 12:00:00 AM",
+                    "media": []
+                },
+                {
+                    "ticker": "e2",
+                    "name": "Flower bouquet",
+                    "description": "<p>Beautiful flower bouquet waiting for you in your room.</p>",
+                    "active": true,
+                    "startDate": "Mar 1, 2013 12:00:00 AM",
+                    "endDate": "Mar 22, 2022 12:00:00 AM",
+                    "media": [
+                        {
+                            "path": "0000.jpg",
+                            "name": ""
+                        }
+                    ]
+                },
+                {
+                    "ticker": "e10",
+                    "name": "Massage session (30 min)",
+                    "description": "<p>Ayurveda: Natural Indian technique. It works your body, mind and spirit. It&rsquo;s toning and relaxing.</p>",
+                    "active": true,
+                    "startDate": "Jul 1, 2009 12:00:00 AM",
+                    "endDate": "Jul 23, 2014 12:00:00 AM",
+                    "media": [
+                        {
+                            "path": "0001.jpg",
+                            "name": ""
+                        }
+                    ]
+                },
+                {
+                    "ticker": "e1",
+                    "name": "Airport Pickup (max. 4 people)",
+                    "description": "<p>We pick you up at Barcelon's El Prat Airport and drive you to Hotel Demo, the service is available for up to 4 people.</p>",
+                    "active": true,
+                    "startDate": "Feb 14, 2010 12:00:00 AM",
+                    "endDate": "Feb 17, 2014 12:00:00 AM",
+                    "media": []
+                },
+                {
+                    "ticker": "e12",
+                    "name": "Baby bassinet (free)",
+                    "description": "<p>Gratuita para ni&ntilde;os/as de hasta 1 a&ntilde;o.</p>",
+                    "active": true,
+                    "startDate": "Mar 1, 2013 12:00:00 AM",
+                    "endDate": "Jul 23, 2014 12:00:00 AM",
+                    "media": [
+                        {
+                            "path": "0001.jpg",
+                            "name": ""
+                        }
+                    ]
+                },
+                {
+                    "ticker": "e3",
+                    "name": "Parking",
+                    "description": "<p>At the hotel, 24h.</p>",
+                    "active": true,
+                    "startDate": "Oct 31, 2012 12:00:00 AM",
+                    "endDate": "Oct 29, 2022 12:00:00 AM",
+                    "media": [
+                        {
+                            "path": "0001.jpg",
+                            "name": ""
+                        }
+                    ]
+                },
+                {
+                    "ticker": "e5",
+                    "name": "Excursion a caballo (por persona) (para traducir)",
+                    "description": "<p>2h horas por el monte con Mariana.&nbsp;</p>\r\n<p>(para traducir)</p>",
+                    "active": true,
+                    "startDate": "May 23, 2013 12:00:00 AM",
+                    "endDate": "Oct 21, 2013 12:00:00 AM",
+                    "media": [
+                        {
+                            "path": "0000.jpg",
+                            "name": ""
+                        }
+                    ]
+                }
+            ],
+            "languages": [
+                {
+                    "id": 33,
+                    "name": "English",
+                    "code": "en",
+                    "locale": "eng",
+                    "charset": "utf-8"
+                },
+                {
+                    "id": 44,
+                    "name": "Español",
+                    "code": "es",
+                    "locale": "spa",
+                    "charset": "utf-8"
+                }
+            ],
+            "currencies": [
+                {
+                    "code": "EUR"
+                },
+                {
+                    "code": "GBP"
+                },
+                {
+                    "code": "USD"
+                }
+            ],
+            "messages": [],
+            "ticker": "est1",
+            "name": "Hotel Demo",
+            "description": "<p>Witbooker hotel demo is a simulation of Witbooking&acute;s booking system. With Witbooking you will enjoy the best booking system available.</p>",
+            "active": true,
+            "contactInfo": {
+                "phone": "666666666",
+                "email": "",
+                "address": "Dirección",
+                "city": "Barcelona",
+                "zone": "",
+                "country": "Spain",
+                "latitude": 41.3879,
+                "longitude": 2.1699
+            },
+            "media": [
+                {
+                    "path": "0001.jpg",
+                    "name": ""
+                },
+                {
+                    "path": "0000.jpg",
+                    "name": ""
+                }
+            ]
+        }
+    }
+]

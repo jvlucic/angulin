@@ -1,0 +1,8 @@
+{
+  "name": "angularjs-seed",
+  "description": "A starter project for AngularJS",
+  "dependencies": {
+    "angular-bootstrap": "~0.10.0",
+    "angular-ui-router": "0.2.8-bowratic-tedium"
+  }
+}
